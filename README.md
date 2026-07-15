@@ -15,7 +15,7 @@ Final-year B.Tech (CSE/IT) student @ Sharda University · Full-Stack Dev @ Talki
 
 ### 🚀 About Me
 
-- 🎯 Full-stack developer who builds real, end-to-end products — now going deep into **AI Engineering** (LLMs, agents, RAG)
+- 🎯 **Full-stack Developer** who builds real, end-to-end products — now going deep into **AI Engineering** (LLMs, agents, RAG)
 - 💻 Core stack: React, Node.js, Express, MongoDB, Flutter, Python, Java
 - 🎓 Published research: *"Enhancing Communication Security and User Privacy to Combat Digital Scams"* — IJSRET, Vol. 11, Issue 3, 2025 → [Read Paper](https://ijsret.com/wp-content/uploads/2025/05/IJSRET_V11_issue3_895.pdf)
 - 🧠 Currently building AI Engineering fundamentals — LLM APIs, local model inference (Ollama), fine-tuning (LoRA), and agent/orchestration patterns

@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer → Transitioning into AI Engineering</h3>
 
 <p align="center">
-Final-year B.Tech (IT) student @ Sharda University · Full-Stack Dev Intern @ Talking Crooks IT Pvt Ltd
+Final-year B.Tech (IT) student @ Sharda University · Ex Full-Stack Dev Intern @ Talking Crooks IT Pvt Ltd
 </p>
 
 ---
@@ -20,8 +20,8 @@ Final-year B.Tech (IT) student @ Sharda University · Full-Stack Dev Intern @ Ta
 
 ### 🧭 AI Engineering Roadmap (in progress)
 
-- [x] LLM APIs & prompt engineering (Claude, GPT)
-- [x] Local LLM inference — Ollama (Qwen2.5-Coder, nomic-embed-text)
+- [ ] LLM APIs & prompt engineering (Claude, GPT)
+- [ ] Local LLM inference — Ollama (Qwen2.5-Coder, nomic-embed-text)
 - [ ] Fine-tuning — LoRA / Unsloth
 - [ ] RAG pipelines & vector databases
 - [ ] Agentic workflows & tool orchestration
@@ -43,16 +43,14 @@ Final-year B.Tech (IT) student @ Sharda University · Full-Stack Dev Intern @ Ta
 
 | Project | Description |
 |---|---|
-| **Crypto Futures Trading Bot** | Live algorithmic trading system on Binance Futures — automated execution, risk management, deployed on VPS *(private, code not open-sourced)* |
 | **[TollFuel-Pro](https://github.com/bhupeshchauhanz/TollFuel-Pro)** | Native Android app calculating toll + fuel costs across India using traffic-aware Mapbox APIs, 1,169 toll plazas |
 | **[DoTrackr](https://github.com/bhupeshchauhanz/DoTrackr)** | Flutter habit & todo tracker — streaks, heatmaps, smart notifications |
-| **AquaSafe AI** | Research paper — ML-based water quality monitoring system (IEEE/Springer format) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhupeshchauhanz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhupeshchauhanz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshchauhanz" />
 </p>

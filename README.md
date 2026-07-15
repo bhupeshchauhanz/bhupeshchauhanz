@@ -53,6 +53,6 @@ Final-year B.Tech (IT) student @ Sharda University · Full-Stack Dev Intern @ Ta
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhupeshchauhanz&show_icons=true&theme=default" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhupeshchauhanz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshchauhanz" />
 </p>

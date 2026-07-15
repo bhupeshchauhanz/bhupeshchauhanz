@@ -23,17 +23,6 @@ Final-year B.Tech (CSE/IT) student @ Sharda University · Full-Stack Dev @ Talki
 - ⚡ Fun fact: I like shipping working products over polishing slides about them
 <br/>
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| **[NutriSeva](https://github.com/bhupeshchauhanz/Nutriseva)** | *Work in Progress* |
-| **[Syncora](https://github.com/bhupeshchauhanz/Syncora)** | *Work in Progress* |
-| **[TollFuel-Pro](https://github.com/bhupeshchauhanz/TollFuel-Pro)** | Native Android app calculating toll + fuel costs across India using traffic-aware Mapbox APIs, covering 1,169 toll plazas |
-| **[DoTrackr](https://github.com/bhupeshchauhanz/DoTrackr)** | Flutter habit & todo tracker with streaks, heatmaps, and smart notifications |
-
-<br/>
-
 ### 💻 Tech Stack
 
 **Languages**
@@ -55,6 +44,17 @@ Final-year B.Tech (CSE/IT) student @ Sharda University · Full-Stack Dev @ Talki
 **Cloud & Deployment**
 <br/>
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![VPS](https://img.shields.io/badge/-VPS-4A4A4A?style=flat&logo=linux&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+<br/>
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[NutriSeva](https://github.com/bhupeshchauhanz/Nutriseva)** | *Work in Progress* |
+| **[Syncora](https://github.com/bhupeshchauhanz/Syncora)** | *Work in Progress* |
+| **[TollFuel-Pro](https://github.com/bhupeshchauhanz/TollFuel-Pro)** | Native Android app calculating toll + fuel costs across India using traffic-aware Mapbox APIs, covering 1,169 toll plazas |
+| **[DoTrackr](https://github.com/bhupeshchauhanz/DoTrackr)** | Flutter habit & todo tracker with streaks, heatmaps, and smart notifications |
 
 <br/>
 

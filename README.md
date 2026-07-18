@@ -60,10 +60,17 @@ Final-year B.Tech (CSE/IT) student @ Sharda University · Full-Stack Dev @ Talki
 
 ### 📊 GitHub Stats
 
-<p>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhupeshchauhanz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-<img height="165"src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshchauhanz&theme=dark&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhupeshchauhanz&show_icons=true&theme=dark&hide_border=true&rank_icon=github"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhupeshchauhanz&layout=compact&theme=dark&hide_border=true"/>
+
+  <a href="https://git.io/streak-stats">
+    <img height="170" src="https://streak-stats.demolab.com?user=bhupeshchauhanz&theme=dark&hide_border=true"/>
+  </a>
 </p>
+
+[![Bhupesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhupeshchauhanz&theme=github-compact)](https://github.com/bhupeshchauhanz)
 
 <br/>
 

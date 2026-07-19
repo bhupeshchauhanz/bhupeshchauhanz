@@ -52,7 +52,7 @@ Final-year B.Tech (CSE/IT) student @ Sharda University · Full-Stack Dev @ Talki
 | Project | Description |
 |---|---|
 | **[NutriSeva](https://github.com/bhupeshchauhanz/Nutriseva)** | *Work in Progress* |
-| **[Syncora](https://github.com/bhupeshchauhanz/Syncora)** | *Work in Progress* |
+| **[Synkaro](https://github.com/bhupeshchauhanz/Synkaro)** | *Work in Progress* |
 | **[TollFuel-Pro](https://github.com/bhupeshchauhanz/TollFuel-Pro)** | Native Android app calculating toll + fuel costs across India using traffic-aware Mapbox APIs, covering 1,169 toll plazas |
 | **[DoTrackr](https://github.com/bhupeshchauhanz/DoTrackr)** | Flutter habit & todo tracker with streaks, heatmaps, and smart notifications |
 
